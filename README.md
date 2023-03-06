@@ -1,7 +1,7 @@
-|                                                                           |                                                               |
-|:--------------------------------------------------------------------------|--------------------------------------------------------------:|
-|<i class="fa fa-user"></i> : Julien Campergue                              |  <p class="table-align-right">julien.campergue@gmail.com : <i class="fa fa-envelope-o"></i></p>|
-|<i class="fa fa-birthday-cake"></i> : 37 ans                               |               <p class="table-align-right">juliencampergue : <i class="fa fa-linkedin"></i></p>|
+|   |   |
+| :--- | ---: |
+| <i class="fa fa-user"></i> Julien Campergue | julien.campergue@gmail.com <i class="fa fa-envelope-o"></i></p> |
+| <i class="fa fa-birthday-cake"></i> 37 ans | juliencampergue <i class="fa fa-linkedin"></i></p> |
 
 # Ingénieur Sénior en Développement Logiciel
 
@@ -10,8 +10,8 @@
 > 2021 / 2022 : **En voyage longue durée**
 
  Courant 2021 / 2022
- : 
- 
+ :
+
 	Voyage autour du monde d'un an à vélo en famille
 
 <br/>
@@ -19,12 +19,12 @@
 > 05/2017 - 01/2020 : ***Talkar** : 18, Rue Jules Ferry, Fontenay Sous Bois*
 
 05/2017 - 01/2020 : Fondateur - Président
-: 
+:
 
 	Avec **Talkar**, envoyez des messages à tout utilisateur via sa plaque d'immatriculation, et suivez vos véhicules pour recevoir tous les messages qui lui sont envoyés. Quelque soit la situation avec Talkar, prévenez, et soyez prévenu!
-	
+
 	Soyez enfin connecté à votre véhicule! Rendez-vous sur [https://www.talkar.fr](https://www.talkar.fr)
-	
+
 	Développement de [l'application **Android**](https://play.google.com/store/apps/details?id=com.talkar.android&hl=fr) (Java) et de l'application **IOS** (Swift) (**Firebase / Realm / Rx / Dagger**)
 
 	Créations des supports graphiques, site internet, démarchage, et tout le reste...
@@ -60,14 +60,14 @@
     Développement d'applications java pour **Android 1.5 et 2.3**.
 
     Développement des applications **Deezer** et **LiveRadio** pour la gamme **Parrot Asteroid** et interfaçage avec les fonctionnalités spécifiques Parrot (player audio et reconnaissance vocale).
-    
+
     Reprise des applications Météo et Roadtrip pour le Parrot Asteroid lors de la phase de debug.
-    
+
     Différentes études de faisabilité (graphiques et fonctionnelles) pour le Parrot Asteroid.
 
 09/2008 - 03/2009 : Développeur ASIC
 :   
-    
+
     Développement d'un module d'interface caméra (itu-601 & itu-656) basé sur une architecture Arm9 en verilog pour le circuit Parrot
 
 <br/>
@@ -75,12 +75,12 @@
 ## Formation
 
 2003-2008 : E.S.I.E.E., 93162
-: 
+:
 
     Diplômé de l' *École Supérieure d'Ingénieurs en Électronique et Électrotechnique* (**E.S.I.E.E.**), Majeure "*Architecte et Intégrateur de Systèmes Électroniques*" (**A.I.S.E**)
 
 2003 : _Lycée Jean Jaurès_, 95100.
-: 
+:
 
     *__Bac S-SI__ spécialité math obtenu avec __mention bien__*.
 
@@ -89,7 +89,7 @@
 ## Compétences
 
 Languages
-: 
+:
 
     |Principaux         ||Autres                     |||
     |:----------|--------|:-------|:----------|:-------|
@@ -99,7 +99,7 @@ Languages
 ---
 
 Frameworks
-: 
+:
 
     |Principaux         ||Autres  |          |          |      |
     |:----------|--------|:-------|:---------|:---------|:-----|
@@ -110,7 +110,7 @@ Frameworks
 ---
 
 Outils
-: 
+:
 
     |Principaux                 ||Autres                                            ||||
     |:--------------|:-----------|:-------------|:----------|:-------------|:----------|
@@ -118,11 +118,11 @@ Outils
     |Git            |Jenkins     |Eclipse       |Opengrok   |MySql         |           |
     |Git-Repo       |CGit        |IntelliJ Idea |Phabricator|Apache        |           |
 	|Gerrit         |            |Artifactory   |GitHub     |Nginx         |           |
-	
+
 ---
 
 OS
-: 
+:
 
 	|Principaux                 ||Autres        |
     |:--------------|:-----------|:-------------|
@@ -131,8 +131,8 @@ OS
 ---
 
 Langues
-: 
-    
+:
+
     |Français          |   |Anglais                                  |
     |:-----------------|:-:|:----------------------------------------|
     |Langue maternelle |   |niveau avancé, pratique courante :       |
@@ -148,203 +148,6 @@ Langues
 - <i class="fa fa-video-camera"></i> Montages vidéos
 
 
-
-<style type="text/css">
-/*-------------------------------- global --------------------------------*/
-body{
-    margin: 0 auto;
-    font: 11.5px/1.231 FontAwesome Helvetica, Arial, sans-serif;
-    color: #444444;
-    line-height: 1;
-    max-width: 960px;
-    padding: 0px;
-}
-
-/*body > p {
-    line-height: 1px;
-    height: 1px;
-}*/
-
-p {
-    max-width: none;
-    margin: 0px;
-    padding: 0px;
-}
-
-strong {
-    color: black;
-}
-
-hr {
-    margin: 0px 0px;
-    width:50%;
-    height: 0px;
-    border-width: 1px medium medium;
-    border-style: solid none none;
-    border-color: #ccc;
-}
-
-ul, li, table, p {
-    font-size: 11.5px;
-}
-
-a {
-	color: #444444;
-}
-
-/*-------------------------------- blockquotes --------------------------------*/
-blockquote {
-    border-left:.5em solid #40AA53;
-    border-bottom: .1em solid #40AA53;
-    padding: 0 2em;
-    margin-left:0;
-    max-width: 476px;
-}
-
-blockquote p {
-    color: #666;
-    max-width: 460px;
-}
-
-/*-------------------------------- titles --------------------------------*/
-h1, h2 {
-    font-weight: bold;
-}
-
-h1 {
-    color: #111111;
-    font-weight: 400;
-    font-size: 28px;
-    text-align: center;
-    margin: 0px;
-    margin-top: 40px;
-    margin-bottom: 20px;
-}
-
-h2 {
-    display: inline-block;
-    color: blue;
-    font-size: 21px;
-}
-
-h2::before {
-    content: "";
-    height: 0px;
-    width: 100px;
-    border: 5px solid blue;
-    margin-right: 20px;
-    display: inline-block;
-}
-
-/*-------------------------------- tables --------------------------------*/
-table {
-    width: 100%;
-    line-height: 1;
-}
-
-table.first-child thead {
-    visibility: hidden;
-    line-height: 0px;
-    padding: 0px;
-}
-
-table, th, td, thead {
-    border: 0px;
-    margin: 0px;
-    padding: 0px;
-}
-
-table tr th, table tr td, table tr thead {
-    border: 0px;
-    margin: 0px;
-    padding: 0px;
-    
-}
-
-table tr:nth-child(2n) {
-    background-color: #fff;
-}
-
-td {
-    padding-top: 10px;
-}
-
-body > table:first-child tbody tr td {
-    padding: 0px;
-}
-
-body > table:first-child img {
-    width: 15px;
-    margin-left: 5px
-}
-
-.table-align-right {
-    text-align: right;
-}
-
-/*-------------------------------- definitions --------------------------------*/
-/* Use the dl padding to align dt and dd inside the dl*/
-dl {
-    padding: 1px 0px;
-    margin: 8px 0px;
-}
-
-dt {
-    float: left;
-    clear: left;
-    width: 20%;
-    max-width: 17%;
-    font-weight: bold;
-    margin-top: 8px
-}
-
-dd {
-    margin-left: 20%;
-    margin-top: 8px;
-}
-
-dt:first-of-type, dd:first-of-type {
-    margin-top: 0px;
-}
-
-dt p, dd p {
-    line-height: 15px;
-    min-height: 15px;
-    margin-top: 0px;
-}
-
-dt p:first-of-type, dd p:first-of-type {
-    margin-top: 0px;
-}
-
-dd table {
-    width: auto;
-}
-
-dd table td {
-    min-width: 120px;
-    padding: 0px;
-    padding-bottom:5px;
-}
-
-dd table th {
-    padding-bottom: 5px;
-}
-
-/*-------------------------------- lists --------------------------------*/
-ul, li {
-    padding: 0px;
-    margin: 0px;
-    list-style-type: none;
-}
-
-/*-------------------------------- fonts --------------------------------*/
-.fa {
-    font-size: 1em;
-    width: 15px;
-    text-align: center;
-}
-</style>
 
 <style type="text/css">
 /*
