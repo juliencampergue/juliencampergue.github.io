@@ -20,7 +20,7 @@ julien.campergue@gmail.com
 
 | Domain | Skills |
 | --- | --- |
-| Languages | **Kotlin**, **Java**, **Python**, **Gradle**, Swift, Javascript, Html, Css, Groovy |
+| Programming Languages | **Kotlin**, **Java**, **Python**, **Gradle**, Swift, Javascript, Html, Css, Groovy |
 | Frameworks | **Android**, **Jetpack Compose**, **Firebase**, **Kotlin Coroutines and Flows**, Navigation for Android, Room, RxJava, Dagger, iOs, Realm, Django, Bootstrap, jQuery |
 | Tools | **Android Studio**, **Git**, **Jenkins**, **Git-Repo**, Gerrit, Redmine, CGit, Aptana, Eclipse, IntelliJ Idea, Artifactory, SonarQube, OpenGrok, Phabricator, GitHub, Bitbucket, GitHub, MySql, Sqlite, Apache, NGinX, Slack |
 | OS | **Ubuntu**, **Manjaro**, ArchLinux, **MacOS** |
