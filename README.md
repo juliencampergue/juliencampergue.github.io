@@ -10,11 +10,11 @@ julien.campergue@gmail.com
 
 # Links
 
-[Linkedin](https://www.linkedin.com/in/juliencampergue/)</br>
-[Freelance Website](https://juliencampergue.com)</br>
-[Talkar Website](https://talkar.fr)</br>
-[Talkar App](https://play.google.com/store/apps/details?id=com.talkar.android&hl=fr)</br>
-[Other Apps](https://play.google.com/store/apps/details?id=com.hangman.android)</br>
+[Linkedin](https://www.linkedin.com/in/juliencampergue/)  
+[Freelance Website](https://juliencampergue.com)  
+[Talkar Website](https://talkar.fr)  
+[Talkar App](https://play.google.com/store/apps/details?id=com.talkar.android&hl=fr)  
+[Other Apps](https://play.google.com/store/apps/details?id=com.hangman.android)  
 
 # Skills Summary
 
@@ -24,7 +24,7 @@ julien.campergue@gmail.com
 | Frameworks | **Android**, **Jetpack Compose**, **Firebase** | **Kotlin Coroutines and Flows**, Navigation for Android, Room, RxJava, Dagger, iOs, Realm, Django, Bootstrap, jQuery |
 | Tools | **Android Studio**, **Git**, **Jenkins**, **Git-Repo** | Gerrit, Redmine, CGit, Aptana, Eclipse, IntelliJ Idea, Artifactory, SonarQube, OpenGrok, Phabricator, GitHub, Bitbucket, GitHub, MySql, Sqlite, Apache, NGinX, Slack |
 | OS | **Ubuntu**, **Manjaro** | ArchLinux, **MacOS** |
-| Languages | **French** (mother tongue) | **English** (fluent) <ul><li>TOEFL : 587 (May 2005)</li><li>**TOEIC** : 940 (December 2006)</li></ul> |
+| Languages | **French** (mother tongue),  **English** (fluent - TOEFL : 587 in 2005 - **TOEIC** : 940 in 2006) | |
 | Soft Skills | **Autonomy**, **Adaptability**, **Entrepreneurship** | Skillfulness, Team Spirit |
 
 # Professional Experiences
