@@ -25,13 +25,13 @@ julien.campergue@gmail.com
 | Tools | **Android Studio**, **Git**, **Jenkins**, **Git-Repo**, Gerrit, Redmine, CGit, Aptana, Eclipse, IntelliJ Idea, Artifactory, SonarQube, OpenGrok, Phabricator, GitHub, Bitbucket, GitHub, MySql, Sqlite, Apache, NGinX, Slack |
 | OS | **Ubuntu**, **Manjaro**, ArchLinux, **MacOS** |
 | Languages | **French** (mother tongue),  **English** (fluent - TOEFL : 587 in 2005 - **TOEIC** : 940 in 2006) |
-| Soft Skills | **Autonomy**, **Adaptability**, **Entrepreneurship** Skillfulness, Team Spirit |
+| Soft Skills | **Autonomy**, **Adaptability**, **Entrepreneurship**, Skillfulness, Team Spirit |
 
 # Professional Experiences
 
 ## 2022 - Today : **Freelance**
 
-* Update on the last **Android Framworks and Technologies**
+* Update on the latest **Android Frameworks and Technologies**
 * Development of an application in Kotlin with Jetpack Compose, Room, Firebase. [Find it on Google Play](https://play.google.com/store/apps/details?id=com.hangman.android)
 
 ## 2021 / 2022 : **Long duration trip**
