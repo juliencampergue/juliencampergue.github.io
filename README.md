@@ -18,14 +18,14 @@ julien.campergue@gmail.com
 
 # Skills Summary
 
-| Domain | Main Skills | Others |
-| --- | --- | --- |
-| Languages | **Kotlin**, **Java**, **Python** | **Gradle**, Swift, Javascript, Html, Css, Groovy |
-| Frameworks | **Android**, **Jetpack Compose**, **Firebase** | **Kotlin Coroutines and Flows**, Navigation for Android, Room, RxJava, Dagger, iOs, Realm, Django, Bootstrap, jQuery |
-| Tools | **Android Studio**, **Git**, **Jenkins**, **Git-Repo** | Gerrit, Redmine, CGit, Aptana, Eclipse, IntelliJ Idea, Artifactory, SonarQube, OpenGrok, Phabricator, GitHub, Bitbucket, GitHub, MySql, Sqlite, Apache, NGinX, Slack |
-| OS | **Ubuntu**, **Manjaro** | ArchLinux, **MacOS** |
-| Languages | **French** (mother tongue),  **English** (fluent - TOEFL : 587 in 2005 - **TOEIC** : 940 in 2006) | |
-| Soft Skills | **Autonomy**, **Adaptability**, **Entrepreneurship** | Skillfulness, Team Spirit |
+| Domain | Skills |
+| --- | --- |
+| Languages | **Kotlin**, **Java**, **Python**, **Gradle**, Swift, Javascript, Html, Css, Groovy |
+| Frameworks | **Android**, **Jetpack Compose**, **Firebase**, **Kotlin Coroutines and Flows**, Navigation for Android, Room, RxJava, Dagger, iOs, Realm, Django, Bootstrap, jQuery |
+| Tools | **Android Studio**, **Git**, **Jenkins**, **Git-Repo**, Gerrit, Redmine, CGit, Aptana, Eclipse, IntelliJ Idea, Artifactory, SonarQube, OpenGrok, Phabricator, GitHub, Bitbucket, GitHub, MySql, Sqlite, Apache, NGinX, Slack |
+| OS | **Ubuntu**, **Manjaro**, ArchLinux, **MacOS** |
+| Languages | **French** (mother tongue),  **English** (fluent - TOEFL : 587 in 2005 - **TOEIC** : 940 in 2006) |
+| Soft Skills | **Autonomy**, **Adaptability**, **Entrepreneurship** Skillfulness, Team Spirit |
 
 # Professional Experiences
 
